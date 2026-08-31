@@ -1,6 +1,6 @@
-# 🛡️ Sentinel SOC WAF
+# 🛡️Sentinel WAF
 
-Sentinel SOC WAF is a Flask-based intelligent Web Application Firewall (WAF) with a real-time SOC dashboard for detecting, blocking, and visualizing cyber attacks.
+Sentinel  WAF is a Flask-based intelligent Web Application Firewall (WAF) with a real-time SOC dashboard for detecting, blocking, and visualizing cyber attacks.
 
 ---
 
